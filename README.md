@@ -46,3 +46,6 @@ https://team-turtle.atlassian.net/jira/software/projects/SIL/boards/2/backlog
 * Acceptance criteria
 * Estimated in story points
 * Each user story has a high priority 
+* The story must has at least one acceptance criteria and each acceptance criteria is a testable true/false statement 
+* The story has been estimated by the team with a story point
+* The story has design spec attached if there is a UI component 
