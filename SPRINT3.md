@@ -60,9 +60,8 @@ https://team-turtle.atlassian.net/jira/software/projects/SIL/boards/2/reports/bu
 ![sprint3_pair_programming3](/project-part-2/pair_0707.png)
 
 ## Continuous Integration Continuous Delivery evidence 
-TBD Ray to provide screenshot and verbage 
-
-
+![CICD1](/project-part-2/CICD1.jpg)
+![CICD2](/project-part-2/CICD2.jpg)
 
 ## 10 more micro-scale unit tests in the test suite 
 * unit tests https://github.com/adejeffchen/sam-is-lost/tree/main/ui/samislost/tests/unit
