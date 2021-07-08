@@ -53,6 +53,7 @@ https://team-turtle.atlassian.net/jira/software/projects/SIL/boards/2/reports/bu
   * Sanae will look into it as well 
 ## Burndown chart updates screenshots 
 ![sprint3_burndown_initial](/project-part-2/sprint3_burndown_initial.png)
+![sprint3_burndown_end](/project-part-2/sprint3_burndown_end.png)
 
 ## Paired or mobbed programming evidence 
 ![sprint3_mob_programming1](/project-part-2/sprint3_mod_programming1.png)
